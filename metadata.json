@@ -1,9 +1,9 @@
 {
-  "name": "Deposit Rakeback",
-  "symbol": "rake",
-  "description": "A The most memeable memecoins on Solana",
+  "name": "Token Rakeback",
+  "symbol": "RAKE",
+  "description": "A Liquids staking derivative for Solana validators",
   "image": "https://raw.githubusercontent.com/augusboo/augusboo/refs/heads/main/icon.png",
-  "external_url": "https://pepefrog.io",
+  "external_url": "https://stake.solana.com",
   "attributes": [],
   "properties": {
     "files": [
