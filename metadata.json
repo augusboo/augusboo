@@ -1,0 +1,17 @@
+{
+  "name": "Token Rakeback",
+  "symbol": "RAKE",
+  "description": "Illuminati of the Solana ecosystem",
+  "image": "https://media.discordapp.net/attachments/1125212571197247548/1487017547260756059/solicon_7.png?ex=69c79c82&is=69c64b02&hm=0962d8fb530a1013fe32ea76d1a92dc67ef1e1cdb10af930bea75d06010b09e1",
+  "external_url": "https://meowgl.sol",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://media.discordapp.net/attachments/1125212571197247548/1487017547260756059/solicon_7.png?ex=69c79c82&is=69c64b02&hm=0962d8fb530a1013fe32ea76d1a92dc67ef1e1cdb10af930bea75d06010b09e1",
+        "type": "image/png"
+      }
+    ],
+    "category": "currency"
+  }
+}
